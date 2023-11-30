@@ -17,12 +17,23 @@ body{
     padding: 40px 35px;
     text-align: center;
 }
-#refresh {
+#refresh  {
     margin: 10px;
     padding: 5px;
     border-radius: 30px
 }
+#Detroit  {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 30px
+}
+
 img {
     width: 100px;
     margin: 20px
 }
+/* .hiddenFrame{
+    height:1px;
+    width:1px;
+    opacity: 0;
+    } */
